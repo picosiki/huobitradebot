@@ -1,0 +1,12 @@
+*.tmp
+*.secret.yaml
+__pycache__/*
+__pycache__
+*.old
+tmp
+logs/*.log
+*.xlsx
+*.txt
+*.env
+.env
+*.log
